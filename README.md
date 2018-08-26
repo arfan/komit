@@ -3,7 +3,9 @@ Jira tracking in git commit, will ask, time, and comment, will automatically gen
 
 # usage
 $ komit
+
 Enter Time: 
+
 Enter Comment: 
 
 
